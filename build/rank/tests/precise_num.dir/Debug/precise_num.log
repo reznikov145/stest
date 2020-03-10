@@ -1,0 +1,6 @@
+﻿  test_second_numeric.cpp
+E:\TechTest\halikov\Variant10\rank\tests\test_second_numeric.cpp(12): warning C4305: инициализация: усечение из "double" к "float"
+E:\TechTest\halikov\Variant10\rank\tests\test_second_numeric.cpp(13): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+E:\TechTest\halikov\Variant10\rank\tests\test_second_numeric.cpp(13): warning C4305: инициализация: усечение из "double" к "float"
+  precise_num.vcxproj -> E:\TechTest\halikov\Variant10\build\bin\Debug\precise_num.exe
+  precise_num.vcxproj -> E:/TechTest/halikov/Variant10/build/bin/Debug/precise_num.pdb (Full PDB)

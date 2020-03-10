@@ -1,0 +1,12 @@
+﻿  Building Custom Rule E:/Новая папка (2)/Халиков/Task9/rank/tests/CMakeLists.txt
+  CMake does not need to re-run because E:/╨Э╨╛╨▓╨░╤П ╨┐╨░╨┐╨║╨░ (2)/╨е╨░╨╗╨╕╨║╨╛╨▓/Task9/bin/rank/tests/CMakeFiles/generate.stamp is up-to-date.
+  rank.cpp
+E:\Новая папка (2)\Халиков\Task9\rank\rank.cpp(60): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+E:\Новая папка (2)\Халиков\Task9\rank\rank.cpp(75): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  test_first_numeric.cpp
+E:\Новая папка (2)\Халиков\Task9\rank\tests\test_first_numeric.cpp(12): warning C4305: инициализация: усечение из "double" к "float"
+E:\Новая папка (2)\Халиков\Task9\rank\tests\test_first_numeric.cpp(13): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+E:\Новая папка (2)\Халиков\Task9\rank\tests\test_first_numeric.cpp(13): warning C4305: инициализация: усечение из "double" к "float"
+  Создание кода...
+  simple.vcxproj -> E:\Новая папка (2)\Халиков\Task9\bin\bin\Debug\simple.exe
+  simple.vcxproj -> E:/Новая папка (2)/Халиков/Task9/bin/bin/Debug/simple.pdb (Full PDB)

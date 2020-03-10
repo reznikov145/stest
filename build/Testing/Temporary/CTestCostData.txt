@@ -1,0 +1,6 @@
+simple_sum 8 0.00566186
+precise_sum 5 0.0140951
+simple 10 0.00619608
+precise_num 7 0.0112243
+sum 3 0.0239225
+---

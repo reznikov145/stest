@@ -1,0 +1,79 @@
+Start testing: Dec 18 17:20 RTZ 2 (ceia)
+----------------------------------------------------------
+1/5 Testing: simple_sum
+1/5 Test: simple_sum
+Command: "E:/TechTest/halikov/Variant10/build/bin/Debug/simple_sum.exe"
+Directory: E:/TechTest/halikov/Variant10/build/rank/tests
+"simple_sum" start time: Dec 18 17:20 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.05 sec
+----------------------------------------------------------
+Test Passed.
+"simple_sum" end time: Dec 18 17:20 RTZ 2 (ceia)
+"simple_sum" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: precise_sum
+2/5 Test: precise_sum
+Command: "E:/TechTest/halikov/Variant10/build/bin/Debug/precise_sum.exe"
+Directory: E:/TechTest/halikov/Variant10/build/rank/tests
+"precise_sum" start time: Dec 18 17:20 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"precise_sum" end time: Dec 18 17:20 RTZ 2 (ceia)
+"precise_sum" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: simple
+3/5 Test: simple
+Command: "E:/TechTest/halikov/Variant10/build/bin/Debug/simple.exe"
+Directory: E:/TechTest/halikov/Variant10/build/rank/tests
+"simple" start time: Dec 18 17:20 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.06 sec
+----------------------------------------------------------
+Test Passed.
+"simple" end time: Dec 18 17:20 RTZ 2 (ceia)
+"simple" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: precise_num
+4/5 Test: precise_num
+Command: "E:/TechTest/halikov/Variant10/build/bin/Debug/precise_num.exe"
+Directory: E:/TechTest/halikov/Variant10/build/rank/tests
+"precise_num" start time: Dec 18 17:20 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"precise_num" end time: Dec 18 17:20 RTZ 2 (ceia)
+"precise_num" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: sum
+5/5 Test: sum
+Command: "E:/TechTest/halikov/Variant10/build/bin/Debug/itTests.exe" "sum"
+Directory: E:/TechTest/halikov/Variant10/build/testsit
+"sum" start time: Dec 18 17:20 RTZ 2 (ceia)
+Output:
+----------------------------------------------------------
+The amount of the first sequence and amount of the second sequence: 1.04504 1.01234567
+<end of output>
+Test time =   0.07 sec
+----------------------------------------------------------
+Test Passed.
+"sum" end time: Dec 18 17:20 RTZ 2 (ceia)
+"sum" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 18 17:20 RTZ 2 (ceia)

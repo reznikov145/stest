@@ -1,0 +1,6 @@
+﻿  test_first_numeric.cpp
+E:\TechTest\halikov\Variant10\rank\tests\test_first_numeric.cpp(12): warning C4305: инициализация: усечение из "double" к "float"
+E:\TechTest\halikov\Variant10\rank\tests\test_first_numeric.cpp(13): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+E:\TechTest\halikov\Variant10\rank\tests\test_first_numeric.cpp(13): warning C4305: инициализация: усечение из "double" к "float"
+  simple.vcxproj -> E:\TechTest\halikov\Variant10\build\bin\Debug\simple.exe
+  simple.vcxproj -> E:/TechTest/halikov/Variant10/build/bin/Debug/simple.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  test_first_sum.cpp
+E:\TechTest\halikov\Variant10\rank\tests\test_first_sum.cpp(12): warning C4305: инициализация: усечение из "double" к "float"
+E:\TechTest\halikov\Variant10\rank\tests\test_first_sum.cpp(13): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+E:\TechTest\halikov\Variant10\rank\tests\test_first_sum.cpp(13): warning C4305: инициализация: усечение из "double" к "float"
+  simple_sum.vcxproj -> E:\TechTest\halikov\Variant10\build\bin\Debug\simple_sum.exe
+  simple_sum.vcxproj -> E:/TechTest/halikov/Variant10/build/bin/Debug/simple_sum.pdb (Full PDB)

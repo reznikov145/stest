@@ -1,0 +1,8 @@
+﻿  Building Custom Rule E:/Новая папка (2)/Халиков/Task9/testsit/CMakeLists.txt
+  CMake does not need to re-run because E:/╨Э╨╛╨▓╨░╤П ╨┐╨░╨┐╨║╨░ (2)/╨е╨░╨╗╨╕╨║╨╛╨▓/Task9/bin/testsit/CMakeFiles/generate.stamp is up-to-date.
+  itTests.cxx
+  sum.cpp
+E:\Новая папка (2)\Халиков\Task9\testsit\sum.cpp(14): warning C4305: инициализация: усечение из "double" к "float"
+  Создание кода...
+  itTests.vcxproj -> E:\Новая папка (2)\Халиков\Task9\bin\bin\Debug\itTests.exe
+  itTests.vcxproj -> E:/Новая папка (2)/Халиков/Task9/bin/bin/Debug/itTests.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  test_second_sum.cpp
+E:\TechTest\halikov\Variant10\rank\tests\test_second_sum.cpp(13): warning C4305: инициализация: усечение из "double" к "float"
+E:\TechTest\halikov\Variant10\rank\tests\test_second_sum.cpp(14): warning C4838: преобразование из "double" в "float" требует сужающего преобразования
+E:\TechTest\halikov\Variant10\rank\tests\test_second_sum.cpp(14): warning C4305: инициализация: усечение из "double" к "float"
+  precise_sum.vcxproj -> E:\TechTest\halikov\Variant10\build\bin\Debug\precise_sum.exe
+  precise_sum.vcxproj -> E:/TechTest/halikov/Variant10/build/bin/Debug/precise_sum.pdb (Full PDB)
